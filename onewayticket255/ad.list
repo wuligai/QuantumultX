@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,mob.com
 DOMAIN,applog.uc.cn
 DOMAIN,api.joybj.com
 DOMAIN,api.whizzone.com
-DOMAIN-KEYWORD,traffic
+DOMAIN-KEYWORD,aotter
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,track
@@ -24,9 +24,11 @@ DOMAIN-SUFFIX,catch.gift
 DOMAIN-SUFFIX,pubnative.net
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,igexin.com
+DOMAIN-SUFFIX,appcenter.ms 
 
 //Google&&Youtube
 DOMAIN,mtalk.google.com
+DOMAIN,s.youtube.com
 DOMAIN,suggestqueries.google.com
 DOMAIN,www.googleadservices.com
 DOMAIN-SUFFIX,doubleclick.net
